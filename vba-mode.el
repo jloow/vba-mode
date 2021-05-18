@@ -1,4 +1,4 @@
-;; vba-mode.el --- a mode for editing Excel VBA scripts
+;;; vba-mode.el --- a mode for editing Excel VBA scripts
 
 ;;; Copyright (C) 2008 Yoshihiko Kakutani
 
